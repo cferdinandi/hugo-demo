@@ -1,0 +1,66 @@
+##
+## Sale Prices
+## Used by the API
+##
+
+# Pocket Guides
+guidesComplete:
+    prices:
+        ebook: "<del>$179</del> $89"
+        video: "<del>$387</del> $165"
+        both: "<del>$415</del> $176"
+    start: 20181122
+    end: 20181126
+
+guidesBeginner:
+    prices:
+        ebook: "<del>$99</del> $49"
+        video: "<del>$194</del> $97"
+        both: "<del>$207</del> $104"
+    start: 20181122
+    end: 20181126
+
+guidesAdvanced:
+    price:
+        ebook: "<del>$99</del> $49"
+        video: "<del>$194</del> $68"
+        both: "<del>$207</del> $73"
+    start: 20181122
+    end: 20181126
+
+guidesIndividual:
+    prices:
+        ebook: "<del>$29</del> $15"
+        video: "<del>$69</del> $34"
+        both: "<del>$74</del> $37"
+    start: 20181122
+    end: 20181126
+
+guidesIndividualPreorder:
+    prices:
+        ebook: "<del>$29</del> $15"
+        video: "<del>$69</del> $24"
+        both: "<del>$74</del> $26"
+    start: 20181122
+    end: 20181126
+
+# Academy
+academy:
+    prices:
+        price: "<del>$799</del> $479"
+    start: 20190401
+    end: 20190407
+
+# Office Hours
+officeHours:
+    prices:
+        price: "<del>$99</del> $49"
+    start: 20190417
+    end: 20190430
+
+# Projects
+projects:
+    prices:
+        price: "<del>$39</del> $27"
+    start: 20190422
+    end: 20190428

@@ -1,0 +1,1 @@
+<li{{ if eq .URL "/about/" }} class="active" {{ end }}><a href="{{ "/about" | absURL }}">About</a></li><li{{ if or (eq .URL "/articles/") (eq .Type "articles") }} class="active" {{ end }}><a href="{{ "/articles" | absURL }}">Articles</a></li>

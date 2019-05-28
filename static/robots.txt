@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /nah__img/*
+Disallow: /wp-content/*
+Disallow: /automate/*
+Disallow: /css/*
+Disallow: /js/*
+Disallow: /svg/*

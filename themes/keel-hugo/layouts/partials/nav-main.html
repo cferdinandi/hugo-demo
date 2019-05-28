@@ -1,0 +1,12 @@
+<header class="container container-large margin-bottom-large">
+	<nav class="nav-wrap">
+		<a class="logo" href="{{ .Site.BaseURL }}">
+			{{ .Site.Title }}
+		</a>
+		<div class="nav-menu" id="nav-menu">
+			<ul class="nav">
+				{{ partial "nav-items.html" . }}
+			</ul>
+		</div>
+	</nav>
+</header>
